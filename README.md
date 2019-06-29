@@ -1,4 +1,4 @@
-# Training-Day
+# Training-Day -- Uploaded everything to the same repository have been moving it to its proper folders
 
 1 assignment : Took string and read it into an array. Read the array and the first element into a temp variable then
 compared it to the next item of the array if it was the same I took it and printed it to the screen if not I continued the loop
@@ -11,3 +11,5 @@ Then comparing one half to the other if they matched it was a palindrome if not 
 4:Tested for the anagrams still have the same matching characters after comparing them to each other if they did they are anagrams.
 
 5 could not really get this one, because the matrix refused to print. But I added handcodded values to the matrix in order to print them with a for loop with an index to test each
+
+
